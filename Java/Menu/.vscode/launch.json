@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        java
+        
+
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Integrated Terminal",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": ""
+        },       
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "mainClass": ""
+        },
+    ]
+}

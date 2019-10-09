@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cotohIfElseElse",
+            "request": "launch",
+            "mainClass": "cotohIfElseElse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Menu"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - selisihJam",
+            "request": "launch",
+            "mainClass": "app.selisihJam",
+            "projectName": "Menus"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Menus"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "selisihJam"
+        }
+    ]
+}
